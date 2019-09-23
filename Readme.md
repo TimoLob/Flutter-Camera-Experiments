@@ -1,0 +1,1 @@
+The camera_test folder contains the flutter app. In the main.dart file you can find 2 main-functions. Use the first one to test taking pictures. The second one is for sending images to the image-server via websocket. Just comment the main-function you don't want to use.
