@@ -3,6 +3,9 @@ import asyncio
 from PIL import Image
 import pickle
 
+# This server is only a proof of concept. It currently just saves one color channel of the first image it receives to a file
+# Use the Show Image jupyter notebook to see the image
+
 alreadyRun = False
 
 
